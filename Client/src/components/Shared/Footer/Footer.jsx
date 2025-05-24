@@ -32,7 +32,7 @@ const Footer = () => {
     {
       Icon: Linkedin,
       gradient: "hover:bg-blue-700",
-      href: "https://www.linkedin.com/in/md-najib-hossain/",
+      href: "https://www.linkedin.com/",
     },
   ];
 
